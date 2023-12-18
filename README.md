@@ -16,12 +16,12 @@ Finally, push into new repository.
 
 In the project directory, you can run:
 
-### `./mirror.sh <path>`
+### `./mirror.sh path`
 <path> could include git url (url from web browser) or username/repo
 
 ### Examples
 
-./mirror.sh https://github.com/xxx/yyyy
+./mirror.sh https://github.com/xxx/yyyy<br>
 ./mirror.sh xxx/yyy
 
 
@@ -29,9 +29,9 @@ In the project directory, you can run:
 
 You should create a file (e.g. xxx.sh) and type:
 
-./mirror.sh <repo1>
-./mirror.sh <repo2>
-./mirror.sh <repo3>
+./mirror.sh repo1<br>
+./mirror.sh repo2<br>
+./mirror.sh repo3<br>
 
 Save and run ./xxx.sh on Git Bash
 
