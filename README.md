@@ -1,10 +1,15 @@
 # Getting Started with Git Mirror Bash
 
 You should change YOUR_KEY, YOUR_NAME and YOUR_EMAIL to yours.
+
 If you don't have key, you should create new key at https://github.com/settings/tokens
+
 And then, please run script on apropriate location.
+
 It will create new repository, and clone original repository.
+
 Then change all history with your name and email.
+
 Finally, push into new repository.
 
 ## Available Scripts
